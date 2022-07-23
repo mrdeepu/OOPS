@@ -1,0 +1,13 @@
+C:\Users\deepu\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\deepu\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.SuggestedBindingRedirects.cache
+C:\Users\deepu\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\deepu\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\deepu\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\deepu\source\repos\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\deepu\source\repos\SOLID\SOLID\bin\Debug\OCPLibrary.dll
+C:\Users\deepu\source\repos\SOLID\SOLID\bin\Debug\OCPLibrary.pdb
+C:\Users\deepu\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.CopyComplete
+C:\Users\deepu\source\repos\SOLID\SOLID\obj\Debug\SOLID.exe
+C:\Users\deepu\source\repos\SOLID\SOLID\obj\Debug\SOLID.pdb
+C:\Users\deepu\source\repos\SOLID\SOLID\bin\Debug\AbstractDemo.dll
+C:\Users\deepu\source\repos\SOLID\SOLID\bin\Debug\AbstractDemo.pdb
