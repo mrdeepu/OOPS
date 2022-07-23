@@ -1,6 +1,0 @@
-C:\Users\deepu\source\repos\SOLID\AbstractDemo\bin\Debug\AbstractDemo.dll
-C:\Users\deepu\source\repos\SOLID\AbstractDemo\bin\Debug\AbstractDemo.pdb
-C:\Users\deepu\source\repos\SOLID\AbstractDemo\obj\Debug\AbstractDemo.csproj.AssemblyReference.cache
-C:\Users\deepu\source\repos\SOLID\AbstractDemo\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
-C:\Users\deepu\source\repos\SOLID\AbstractDemo\obj\Debug\AbstractDemo.dll
-C:\Users\deepu\source\repos\SOLID\AbstractDemo\obj\Debug\AbstractDemo.pdb
